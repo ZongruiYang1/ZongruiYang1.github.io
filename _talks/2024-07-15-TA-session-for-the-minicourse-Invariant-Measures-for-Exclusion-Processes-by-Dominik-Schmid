@@ -7,5 +7,4 @@ venue: "[Virginia Integrable Probability Summer School 2024](https://sites.googl
 date: 2024-07-15
 location: "University of Virginia"
 ---
-
-In this mini-course, we investigate invariant measures for exclusion processes. After a brief introduction to some classical results on the set of invariant measures for the simple exclusion processes on infinite graphs, we turn our focus to the asymmetric simple exclusion process with open boundaries, also called the open ASEP. We introduction the matrix product ansatz, and show how it can be used to study the stationary distribution of the open ASEP. We discuss different representations of the matrix product ansatz. Using a particular solution for the matrix product ansatz with Askey-Wilson polynomials, we then introduce (signed) Askey-Wilson measures, and explain how the stationary distribution of the open ASEP can be used to construct stationary solutions to the open Kardar-Parisi-Zhang equation. In the last lecture, we focus on some very recent developments for the special case of the open TASEP: a so-called two-layer Gibbs representation of its invariant measure.
+ 
