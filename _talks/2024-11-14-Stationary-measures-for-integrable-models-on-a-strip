@@ -1,0 +1,11 @@
+---
+title: "Stationary measures for integrable models on a strip"
+collection: talks
+type: "Talk"
+#permalink: ZongruiYang1.github.io/_talks/2024-11-14-Stationary-measures-for-integrable-models-on-a-strip
+venue: "[OSU Probability Seminar](https://math.osu.edu/events/probability-seminar-zongrui-yang)"
+date: 2024-11-14
+location: "The Ohio State University"
+---
+
+We prove that the stationary measures for the geometric last passage percolation (LPP) and log-gamma polymer models on a diagonal strip are given by the marginal distributions of objects we call two-layer Gibbs measures. Taking an intermediate disorder limit of the log-gamma polymer stationary measure, we obtain the conjectural description of the open KPZ equation stationary measure for all choices of boundary parameters. This is a joint work with Guillaume Barraquand and Ivan Corwin.
