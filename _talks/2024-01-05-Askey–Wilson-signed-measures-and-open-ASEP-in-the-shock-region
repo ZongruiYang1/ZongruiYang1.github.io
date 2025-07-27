@@ -7,5 +7,4 @@ venue: "[AMS-AWM Special Session on Solvable Lattice Models and their Applicatio
 date: 2024-01-05
 location: "The Moscone Center, San Francisco, CA"
 ---
-
-The open asymmetric simple exclusion process (ASEP) is a paradigmatic model for non-equilibrium systems with open boundaries and for KPZ universality. The phase diagram consists of the fan region and the shock region. In this talk, we present a new method for studying the stationary measure of open ASEP in the shock region. We introduce a family of multi-dimensional Askey–Wilson signed measures and describe the joint generating function of the stationary measure in terms of integrations with respect to these Askey–Wilson signed measures. As an application, we offer a rigorous derivation of the density profile and limit fluctuations of open ASEP in the shock region, confirming the existing physics postulations.
+ 
