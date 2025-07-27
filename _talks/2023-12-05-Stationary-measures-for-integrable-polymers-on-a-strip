@@ -8,4 +8,4 @@ date: 2023-12-05
 location: "University of Pennsylvania"
 ---
 
-We prove that the stationary measures for the geometric last passage percolation (LPP) and log-gamma polymer models on a diagonal strip are given by the marginals of objects we call two-layer Gibbs measures. Taking an intermediate disorder limit of the log-gamma polymer stationary measure, we recover the conjectural description of the open KPZ equation stationary measure for all choices of boundary parameters. This is a joint work with Guillaume Barraquand and Ivan Corwin.
+ 
