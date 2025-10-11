@@ -1,10 +1,9 @@
 ---
 title: "Stationary measure for six-vertex model on a strip"
 collection: publications
-excerpt: ""
-date: 2022-12-18
+date: 2022-12-18 
 venue: "Electronic Journal of Probability 29 (2024): 1–28."
-paperurl: "https://arxiv.org/abs/2212.09111"   # <-- title will link here
-doi: "10.1214/24-EJP1100"                      # optional: shows DOI badge/link
-arxiv: "2212.09111"                             # optional: shows arXiv badge
+arxiv: "2212.09111"             # just the numeric id (no URL)
+doi: "10.1214/24-EJP1100"       # final journal DOI (will show as Journal link)
+journalurl: "https://projecteuclid.org/journals/electronic-journal-of-probability/volume-29/issue-none/Stationary-measure-for-six-vertex-model-on-a-strip/10.1214/24-EJP1100.full"   
 ---
