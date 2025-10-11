@@ -1,12 +1,10 @@
 ---
-title: "Stationary measures for integrable polymers on a strip, joint with Guillaume Barraquand and Ivan Corwin"
+title: "Stationary measures for integrable polymers on a strip"
 collection: publications
-# permalink: ZongruiYang1.github.io/_publications/2024-06-25-Stationary-measures-for-integrable-polymers-on-a-strip
-excerpt: ''
 date: 2023-06-09
-venue: 'Inventiones mathematicae (2024): 1-75.'
-paperurl: 'https://doi.org/10.1007/s00222-024-01277-x'
-
-
+authors: "with Guillaume Barraquand and Ivan Corwin"
+venue: "Inventiones mathematicae (2024): 1-75."
+arxiv: "2306.05983"             # just the numeric id (no URL)
+doi: "10.1007/s00222-024-01277-x"       # final journal DOI (will show as Journal link)
+journalurl: "https://link.springer.com/article/10.1007/s00222-024-01277-x"  
 ---
-https://arxiv.org/abs/2306.05983
