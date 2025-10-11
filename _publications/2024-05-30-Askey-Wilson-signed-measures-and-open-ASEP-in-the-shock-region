@@ -9,3 +9,15 @@ paperurl: 'https://doi.org/10.1093/imrn/rnae116'
 
 ---
 https://arxiv.org/abs/2307.06574
+
+
+---
+title: "Askey-Wilson signed measures and open ASEP in the shock region"
+collection: publications
+date: 2023-07-13
+authors: "with Yizao Wang and Jacek Wesolowski"
+venue: "International Mathematics Research Notices (2024): rnae116."
+arxiv: "2307.06574"             # just the numeric id (no URL)
+doi: "10.1093/imrn/rnae116"       # final journal DOI (will show as Journal link)
+journalurl: "https://academic.oup.com/imrn/article-abstract/2024/15/11104/7684895?redirectedFrom=fulltext" 
+---
