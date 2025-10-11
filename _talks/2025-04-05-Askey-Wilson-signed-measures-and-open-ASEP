@@ -1,11 +1,9 @@
 ---
-title: "Askey-Wilson signed measures and open ASEP"
 collection: talks
-type: "Talk"
-#permalink: ZongruiYang1.github.io/_talks/2025-04-05-Askey-Wilson-signed-measures-and-open-ASEP
-
-venue: "[AMS Special Session on Probability and Combinatorics, II](https://meetings.ams.org/math/spring2025e/meetingapp.cgi/Paper/47884)"
+event: "AMS Special Session on Probability and Combinatorics, II"
+venue: "Connecticut Convention Center"
+city: "Hartford"
+state: "CT"
 date: 2025-04-05
-location: "Connecticut Convention Center, Hartford, CT"
+# talk_url: (omit to avoid any chance of linking)
 ---
- 
