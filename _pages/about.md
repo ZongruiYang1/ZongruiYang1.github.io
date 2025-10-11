@@ -9,9 +9,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year graduate student at Columbia University, supervised by [Professor Ivan Corwin](https://www.math.columbia.edu/~corwin/). I was an undergraduate student in Peking University.
+I am a final-year Ph.D. student in Mathematics at Columbia University, where I am advised by [Professor Ivan Corwin](https://www.math.columbia.edu/~corwin/). I received my undergraduate degree from Peking University.
 
-I will be on the job market for postdoctoral positions starting in fall 2026.
+I will be on the job market for postdoctoral positions beginning in Fall 2026.
+
+Email: zy2417@columbia.edu
 
 More about me
 ======
