@@ -1,9 +1,7 @@
 ---
 collection: talks
 event: "AMS Special Session on Probability and Combinatorics, II"
-venue: "Connecticut Convention Center"
-city: "Hartford"
-state: "CT"
+venue: "Connecticut Convention Center, Hartford, CT" 
 date: 2025-04-05
 # talk_url: (omit to avoid any chance of linking)
 ---
