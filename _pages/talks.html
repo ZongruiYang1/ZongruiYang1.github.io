@@ -5,12 +5,27 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+{% include base_path %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+{% comment %}
+Render talks as plain text (no links, no title), e.g.
+"AMS Special Session on Probability and Combinatorics, II, Connecticut Convention Center, Hartford, CT  Apr 05, 2025"
+{% endcomment %}
 
-{% endif %}
+{% assign items = site.talks | sort: "date" %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+{% for post in items reversed %}
+<article class="archive__item">
+  <p class="archive__item-excerpt">
+    {%- assign bits = "" | split: "" -%}
+    {%- if post.event %}{% assign bits = bits | push: post.event %}{% endif -%}
+    {%- if post.venue %}{% assign bits = bits | push: post.venue %}{% endif -%}
+    {%- if post.location %}{% assign bits = bits | push: post.location %}{% endif -%}
+    {%- if post.city %}{% assign bits = bits | push: post.city %}{% endif -%}
+    {%- if post.state %}{% assign bits = bits | push: post.state %}{% endif -%}
+    {%- if post.country %}{% assign bits = bits | push: post.country %}{% endif -%}
+    {{ bits | uniq | join: ", " }}
+    &nbsp; {{ post.date | date: "%b %d, %Y" }}
+  </p>
+</article>
 {% endfor %}
