@@ -1,11 +1,10 @@
 ---
-title: "From asymmetric simple exclusion processes with open boundaries to stationary measures of open KPZ fixed point: the shock region, joint with Yizao Wang"
+title: "From asymmetric simple exclusion processes with open boundaries to stationary measures of open KPZ fixed point: The shock region"
 collection: publications
-# permalink: ZongruiYang1.github.io/_publications/2024-06-13-From-asymmetric-simple-exclusion-processes-with-open-boundaries-to-stationary-measures-of-open-KPZ-fixed-point-the-shock-region
-excerpt: ''
 date: 2024-06-13
-venue: 'Electronic Journal of Probability 30 (2025): 1-38.'
-paperurl: 'https://projecteuclid.org/journals/electronic-journal-of-probability/volume-30/issue-none/From-asymmetric-simple-exclusion-processes-with-open-boundaries-to-stationary/10.1214/25-EJP1292.full'
-
+authors: "with Yizao Wang"
+venue: "Electronic Journal of Probability 30 (2025): 1-38."
+arxiv: "2406.09252"             # just the numeric id (no URL)
+doi: "10.1214/25-EJP1292"       # final journal DOI (will show as Journal link)
+journalurl: "https://projecteuclid.org/journals/electronic-journal-of-probability/volume-30/issue-none/From-asymmetric-simple-exclusion-processes-with-open-boundaries-to-stationary/10.1214/25-EJP1292.full" 
 ---
-https://arxiv.org/abs/2406.09252
