@@ -1,31 +1,49 @@
 ---
 layout: archive
-title: "Talks"
+title: "Invited Talks and Seminars"
 permalink: /talks/
 author_profile: true
 ---
 
-{% include base_path %}
+<style>
+/* Mimic LaTeX \hfill style for date alignment */
+.talk-list {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+  font-size: 1.0em;
+}
 
-{% comment %}
-Render talks as plain text (no links, no title), e.g.
-"AMS Special Session on Probability and Combinatorics, II, Connecticut Convention Center, Hartford, CT  Apr 05, 2025"
-{% endcomment %}
+.talk-list li {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.25em;
+  border-bottom: 0px solid #ddd;
+}
 
-{% assign items = site.talks | sort: "date" %}
+.talk-left {
+  flex: 1;
+}
 
-{% for post in items reversed %}
-<article class="archive__item">
-  <p class="archive__item-excerpt">
-    {%- assign bits = "" | split: "" -%}
-    {%- if post.event %}{% assign bits = bits | push: post.event %}{% endif -%}
-    {%- if post.venue %}{% assign bits = bits | push: post.venue %}{% endif -%}
-    {%- if post.location %}{% assign bits = bits | push: post.location %}{% endif -%}
-    {%- if post.city %}{% assign bits = bits | push: post.city %}{% endif -%}
-    {%- if post.state %}{% assign bits = bits | push: post.state %}{% endif -%}
-    {%- if post.country %}{% assign bits = bits | push: post.country %}{% endif -%}
-    {{ bits | uniq | join: ", " }}
-    &nbsp; {{ post.date | date: "%b %d, %Y" }}
-  </p>
-</article>
-{% endfor %}
+.talk-right {
+  white-space: nowrap;
+  margin-left: 1em;
+}
+</style>
+
+<section>
+  <h2>Invited Talks and Seminars</h2>
+  <ul class="talk-list">
+    <li><span class="talk-left">AMS Special Session on Probability and Combinatorics</span><span class="talk-right">Apr 2025</span></li>
+    <li><span class="talk-left">Workshop: All Roads to the KPZ Universality Class</span><span class="talk-right">Mar 2025</span></li>
+    <li><span class="talk-left">The Ohio State University, Probability Seminar</span><span class="talk-right">Nov 2024</span></li>
+    <li><span class="talk-left">6th Cincinnati Symposium on Probability</span><span class="talk-right">May 2024</span></li>
+    <li><span class="talk-left">University of Chicago, Probability and Statistical Physics Seminar</span><span class="talk-right">Apr 2024</span></li>
+    <li><span class="talk-left">University of Wisconsin–Madison, Probability Seminar</span><span class="talk-right">Feb 2024</span></li>
+    <li><span class="talk-left">Warsaw University of Technology, Probability Seminar</span><span class="talk-right">Jan 2024</span></li>
+    <li><span class="talk-left">AMS–AWM Special Session on Solvable Lattice Models and their Applications</span><span class="talk-right">Jan 2024</span></li>
+    <li><span class="talk-left">Penn/Temple Probability Seminar</span><span class="talk-right">Dec 2023</span></li>
+    <li><span class="talk-left">Workshop: The Asymmetric Simple Exclusion Process</span><span class="talk-right">Oct 2023</span></li>
+    <li><span class="talk-left">Taft Research Seminar on Probability Theory and Its Applications</span><span class="talk-right">Mar 2023</span></li>
+  </ul>
+</section>
