@@ -18,4 +18,4 @@ About Me
 
 My research focuses on the Kardar–Parisi–Zhang (KPZ) universality class and integrable probability, with an interest in how boundaries influence the behavior of random systems.
 
-See my [Publications](https://ZongruiYang1.github.io/publications/) and talks [TALKS LIST](https://ZongruiYang1.github.io/talks/).
+See my [Publications](https://ZongruiYang1.github.io/publications/) and [Talks](https://ZongruiYang1.github.io/talks/).
