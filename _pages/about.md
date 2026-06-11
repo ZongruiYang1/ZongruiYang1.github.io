@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hi, I'm Zongrui Yang — I study KPZ Universality and Integrable Probability"
+title: "Zongrui Yang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a final-year Ph.D. student in Mathematics at Columbia University, advised by [Professor Ivan Corwin](https://www.math.columbia.edu/~corwin/). I received my undergraduate degree from Peking University.
+Beginning July 20, 2026, I will be a [Miller Fellow](https://miller.berkeley.edu/) in the Department of Mathematics at UC Berkeley, hosted by [Professor Alan Hammond](https://math.berkeley.edu/~alanmh/). I received my Ph.D. in Mathematics from Columbia University under the supervision of [Professor Ivan Corwin](https://www.math.columbia.edu/~corwin/), and my undergraduate degree from Peking University.
 
 Email: zy2417@columbia.edu
 
