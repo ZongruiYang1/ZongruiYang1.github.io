@@ -83,11 +83,11 @@ author:
   name             : "Zongrui Yang"
   avatar           : "DSC05684.jpg"
   bio              : 
-  location         : "Manhattan, New York"
-  employer         : "Columbia University"
+  location         : 
+  employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=7ivO_CsAAAAJ&hl=en&oi=ao"
-  email            : "zy2417@columbia.edu"
+  googlescholar    : 
+  email            : 
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZongruiYang1"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
