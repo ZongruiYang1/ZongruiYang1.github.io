@@ -9,7 +9,8 @@ redirect_from:
 ---
 I am a [Miller Fellow](https://miller.berkeley.edu/) in the Department of Mathematics at UC Berkeley, hosted by [Professor Alan Hammond](https://math.berkeley.edu/~alanmh/). I received my Ph.D. in Mathematics from Columbia University in 2026 under the supervision of [Professor Ivan Corwin](https://www.math.columbia.edu/~corwin/), and my undergraduate degree from Peking University.
 
-Email: zy2417@columbia.edu
+Email: zongrui@berkeley.edu 
+       zy2417@columbia.edu
 
 About Me
 ======
